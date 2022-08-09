@@ -68,7 +68,7 @@ Simple Graphs were generated to visualize the data
 ##### Age with outliers
 ![Age with outliers](Images/age_outliers.PNG)
 ##### Population Diagram
-![Cross Validation](Images/population_diagram.PNG.PNG)
+![Cross Validation](Images/population_diagram.PNG)
 ##### Correlation Heatmap
 ![Cross Validation](Images/co_eff_plot.PNG)
 ##### 3D View with bucketed score
