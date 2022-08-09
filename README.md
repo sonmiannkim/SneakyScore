@@ -1,4 +1,4 @@
-# Sneak Score - Machine Learning Experience 
+# Sneaky Score - Machine Learning Experience 
 ### Click the below link to see the "Sneaky Score" web view
 This is Sneaky Score Site : [Sneaky Score](https://sonmiannkim-sneakyscore-app-0dnw3w.streamlitapp.com/) <br>
 This is Google Slide link : [Google Slide](https://docs.google.com/presentation/d/1_ZDp58ladiEjxcG45n7MzcwYHcuHrU8W/edit?usp=sharing&ouid=102621752871254853292&rtpof=true&sd=true)
