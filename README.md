@@ -1,5 +1,6 @@
 # Sneak Score - Machine Learning Experience 
 ### Click the below link to see the "Sneaky Score" web view
+
 ![Sneaky Score Site](https://sonmiannkim-sneakyscore-app-0dnw3w.streamlitapp.com/)
 
 ## Overview of the Machine Motivation:
