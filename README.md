@@ -5,6 +5,16 @@
 
 ![google Slide](https://docs.google.com/presentation/d/1_ZDp58ladiEjxcG45n7MzcwYHcuHrU8W/edit?usp=sharing&ouid=102621752871254853292&rtpof=true&sd=true)
 
+## Technology Used : 
+- matplotlib==3.5.1
+- numpy==1.21.6
+- pandas==1.3.5
+- plotly==5.6.0
+- scikit_learn==1.1.2
+- seaborn==0.11.2
+- streamlit==1.11.1
+
+
 ## Overview of the Machine Motivation:
 ##### Have you ever wondered what totally unrelated data might do when you run your machine learning program?  Well, that was what I wanted to try.
 I wanted to see what car you are driving might indicate what kind of financial freedom you have. Especially by Gender, Age.  It would be interesting to see since guys 
@@ -74,6 +84,7 @@ Simple Graphs were generated to visualize the data
 ![Cross Validation](Images/models_testing_compared.PNG)
 - Also, Actual Scores and expected scores were compared
 ![Actual vs Expected](Images/actual_predicted_score.PNG)
+- Attempt to improve the score : Using GridSeachCV to see if we can optimize using different parameters using different parameter setup.  However, it remained the same mean squared error of about 1.2
 
 ## Analysis Results:
 - The result wasn't what I expected.  There will be several reasons for the result as I inspect the history chart. Almost 70 to 80 % population belongs to the credit range of upper 600 to mid-800s which means majorities belong to the Good thru Excellent range.
