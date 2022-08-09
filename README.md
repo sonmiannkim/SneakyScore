@@ -1,6 +1,9 @@
 # Sneak Score - Machine Learning Experience 
 ### Click the below link to see the "Sneaky Score" web view
+
 ![Sneaky Score Site](https://sonmiannkim-sneakyscore-app-0dnw3w.streamlitapp.com/)
+
+![google Slide](https://docs.google.com/presentation/d/1_ZDp58ladiEjxcG45n7MzcwYHcuHrU8W/edit?usp=sharing&ouid=102621752871254853292&rtpof=true&sd=true)
 
 ## Overview of the Machine Motivation:
 ##### Have you ever wondered what totally unrelated data might do when you run your machine learning program?  Well, that was what I wanted to try.
