@@ -19,9 +19,9 @@ love what they are driving more than women.  so here we go.  I am about to predi
 
 ### Preprocessing the Data  
 
-		![raw drivers table](readme_raw_tables.PNG.PNG)	<br>
+![raw drivers table](readme_raw_tables.PNG.PNG)	<br>
 		
-		![raw drivers table](population_diagram.PNG )	<br>
+![raw drivers table](population_diagram.PNG )	<br>
 
 -	Sample data of xlsx files generated from DB2 instances (500 rows) in the begining of the project
 - 	Created ETL programs such as with Samples :
