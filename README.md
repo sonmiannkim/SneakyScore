@@ -78,9 +78,7 @@ Simple Graphs were generated to visualize the data
 - Scaling - Standard Scaling is used from sklearn processing to normalize the data
 - Basic Linear Regression to see expected scores (Score is the R2 Score, which varies between 0 to 100%): 0.025 ( As expected, it wasn't feasible, where it made me almost switch or add more data, but for sake of the project, continued)
 - For project purposes, the Multiple Linear Regression Model, Decision Tree Regression Model, and Random Forest Regression Model were tested
-- To compare/cross Evaluation K-Fold cross Validation, R2 Score, MSE (Mean Squared Error), RSME (Root Mean Squared Error) was generated
-![Cross Validation](Images/models_testing_compared.PNG)
-- Also, Actual Scores and expected scores were compared
+- Actual Scores and expected scores were compared
 ![Actual vs Expected](Images/actual_predicted_score.PNG)
 - Attempt to improve the score : Using GridSeachCV to see if we can optimize using different parameters using different parameter setup.  However, it remained the same mean squared error of about 1.2
 
