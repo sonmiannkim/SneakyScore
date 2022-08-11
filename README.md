@@ -1,7 +1,8 @@
 # Sneaky Score - Machine Learning Experience 
 ### Click the below link to see the "Sneaky Score" web view
 This is Sneaky Score Site : [Sneaky Score](https://sonmiannkim-sneakyscore-app-0dnw3w.streamlitapp.com/) <br>
-This is Google Slide link : [Google Slide](https://docs.google.com/presentation/d/1_ZDp58ladiEjxcG45n7MzcwYHcuHrU8W/edit?usp=sharing&ouid=102621752871254853292&rtpof=true&sd=true)
+This is Google Slide link on preject outline : [Google Slide project outline](https://docs.google.com/presentation/d/1_ZDp58ladiEjxcG45n7MzcwYHcuHrU8W/edit?usp=sharing&ouid=102621752871254853292&rtpof=true&sd=true)
+This is Google Slide link on Web and final analysis : [Google Slide web](https://docs.google.com/presentation/d/1n58AX6Mx9fPvycsvNHpmHYC3LgHEiioN/edit?usp=sharing&ouid=102621752871254853292&rtpof=true&sd=true)
 
 ## Technology Used : 
 - matplotlib==3.5.1
@@ -53,7 +54,7 @@ love what they are driving more than women.  so here we go.  I am about to predi
 	- Ran K-Means to determine the Bin size and it was similar to standard credit score evaluation, so decided to go for it, since it can be very well used when interacting with a web application.
 	- Later made it to the range rather reflect the true standard values of the following: 850 -Superior, 795-Excellent, 690-Good, 625-Average, 570-Below Average, 525-Poor 
 	- When predicted, added an explanation to the score.
-	
+
 ### Clustering Drivers/Vehicles Using K-means - 
 KMeans – using centroid relocate each centroid to the mean of its assigned observations until the clusters no longer change
 ![KMeans](Images/elbow_diagram.PNG)	
