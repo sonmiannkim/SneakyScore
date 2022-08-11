@@ -53,7 +53,7 @@ love what they are driving more than women.  so here we go.  I am about to predi
 	- Total of 1,048,547 data left (Less than 10 % of sales, that'd been expected)
 	- Ran K-Means to determine the Bin size and it was similar to standard credit score evaluation, so decided to go for it, since it can be very well used when interacting with a web application.
 	- Later made it to the range rather reflect the true standard values of the following: 850 -Superior, 795-Excellent, 690-Good, 625-Average, 570-Below Average, 525-Poor 
-	- When predicted, added an explanation to the score.
+	- When predicted, added an explanation to the score. (see web presentation on "After Math - Omitted Variable Bias" section)
 
 ### Clustering Drivers/Vehicles Using K-means - 
 KMeans – using centroid relocate each centroid to the mean of its assigned observations until the clusters no longer change
