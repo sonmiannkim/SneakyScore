@@ -88,7 +88,7 @@ Simple Graphs were generated to visualize the data
 - Ages are also noticed. The population average is mid-40th, although there are many between 20 to 40s, still, it is unbalanced.
 - Another issue that wasn't considered was this data is from secondary insurance services, therefore majorities have an accident or two.  Considering the fact, that they would want to purchase the car insurance that gives them the lowest premium, therefore good credit standing is required.
 - Also Vehicle population is very concentrated in the middle-class range, not a huge difference in price
-- Overall, the project seems to swim around the pool rather than the ocean. 
+- Overall, the project seems to swim around the pool rather than the ocean. (Note: More details can be found in Web presentation : After Math & Omitted Variable Bias)
 
 ## Analysis Summary:
 Mission accomplished. Always the process is better than the result.  Many steps required research and I've done the plenty last 4 weeks. 
